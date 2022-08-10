@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: 1ff584ebad9200f4d8642a8e0ec0afd4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1785
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e440fff4f75fedf4689fdf08d6e45ca4
+      internalID: -2138155334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1785
+        width: 88
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72630f2f034cfc84395b80af36d1c7c8
+      internalID: -1970133681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1785
+        width: 88
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bae3d92201e1347989966e7e6f12c6
+      internalID: 1685932983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1785
+        width: 89
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec2ac4970f8ab146b24184016d9d7f7
+      internalID: -1595621046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1785
+        width: 89
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b723154100581f341a9824d6b098d3b0
+      internalID: -719449247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1785
+        width: 89
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529288a02de23b6428d6ab323eb15dae
+      internalID: 459424626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1785
+        width: 89
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a16849ccff4f47979e38bd8a7908a
+      internalID: -381865254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1510
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10352159b0e017b499b78263f4db7b7f
+      internalID: 735459748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1510
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16a8051777a1743ba4696046aafad3
+      internalID: -747415754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1510
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83c7bc1f4f1ac41acdbdb289a2bfb5
+      internalID: -565530585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_10
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1510
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b52b58a5ca4fa41b9e06c1f293ba8f
+      internalID: -572553471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1510
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62514f440bfbbd843bc504d63a27db88
+      internalID: 434518226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1510
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378698c97b784b45a1e00fec10b83d4
+      internalID: -468512296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1510
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac6db1e45a01474a8d02a55b43d7360
+      internalID: -842727372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1235
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f05cd5f837e8541b0b6a0a0b0ea7e0
+      internalID: -1444310209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1235
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b25802c0a249243991ab389598d573
+      internalID: -1516561733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1235
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f2adcdfc7bd8c47814d7df2d2f49bb
+      internalID: -1230621275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1235
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b132634d649d44ab564709b683f308
+      internalID: 1130434284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1235
+        width: 88
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b1a5e6e147faf4694a697bbda36661
+      internalID: -1684106998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1235
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809334c95a4fa3243ad6eab4b8c0db3d
+      internalID: -1157700279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_20
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1235
+        width: 89
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9deb32918e3505429edff41586ff479
+      internalID: 1311629028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 960
+        width: 88
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813bca83fc235b948a07a07827a3ce9c
+      internalID: 832391093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 960
+        width: 88
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d058846748b947a479477c311c986
+      internalID: 825990807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 960
+        width: 88
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729a3380feb9e3e4eb894930688032a7
+      internalID: 630883444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_24
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 960
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e873915ae156865419b0e14003b3dbb7
+      internalID: 1796661109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_25
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 960
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce90e4dcd3cd82843a2cf47535dc13ad
+      internalID: 23078213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_26
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 960
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f0a78ea972cc4cac17a4fd8d60f51
+      internalID: 404830710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_27
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 960
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada412c074bb974db7f8633582d43a5
+      internalID: -1816088326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 685
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9317281463950347842c5ad5831cc85
+      internalID: -1881623143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyIdleSprite_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 685
+        width: 87
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e724460d821541ac765fc71c18380
+      internalID: 683451487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RobotBoyIdleSprite_28: -1881623143
+      RobotBoyIdleSprite_17: 1130434284
+      RobotBoyIdleSprite_1: -1970133681
+      RobotBoyIdleSprite_10: -572553471
+      RobotBoyIdleSprite_22: 825990807
+      RobotBoyIdleSprite_3: -1595621046
+      RobotBoyIdleSprite_15: -1516561733
+      RobotBoyIdleSprite_23: 630883444
+      RobotBoyIdleSprite_7: 735459748
+      RobotBoyIdleSprite_8: -747415754
+      RobotBoyIdleSprite_4: -719449247
+      RobotBoyIdleSprite_2: 1685932983
+      RobotBoyIdleSprite_6: -381865254
+      RobotBoyIdleSprite_16: -1230621275
+      RobotBoyIdleSprite_9: -565530585
+      RobotBoyIdleSprite_20: 1311629028
+      RobotBoyIdleSprite_19: -1157700279
+      RobotBoyIdleSprite_25: 23078213
+      RobotBoyIdleSprite_29: 683451487
+      RobotBoyIdleSprite_27: -1816088326
+      RobotBoyIdleSprite_11: 434518226
+      RobotBoyIdleSprite_0: -2138155334
+      RobotBoyIdleSprite_13: -842727372
+      RobotBoyIdleSprite_21: 832391093
+      RobotBoyIdleSprite_14: -1444310209
+      RobotBoyIdleSprite_24: 1796661109
+      RobotBoyIdleSprite_18: -1684106998
+      RobotBoyIdleSprite_12: -468512296
+      RobotBoyIdleSprite_5: 459424626
+      RobotBoyIdleSprite_26: 404830710
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
